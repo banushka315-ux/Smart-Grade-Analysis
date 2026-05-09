@@ -42,5 +42,7 @@ The goal of this project is to simplify academic result analysis and reduce manu
 
 ## Author
 
+Smart Grade Analysis Web App
 Developed by Anushka Bhardwaj
 B.Tech AI & ML Student
+
